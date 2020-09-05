@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "/images/GH.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  name             : "Wilton Aguiar"
+  avatar           : "/images/GH.jpg"
+  bio              : "Ph.D student in Oceanography at FURG. Fulbright Doctoral Dissertation Research Award at the Ohio State University"
+  #location         : "Location"
+  #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pR2VWOAZDZEC&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Wilton_Aguiar"
   uri              :
   bitbucket        :
   codepen          :
