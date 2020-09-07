@@ -19,6 +19,9 @@ News
 - 2018 - **Magazine Publication** - Do you want to know a little more about the issues South America is suffering regarding conserving its paleo and scientific history? Check out this magazine paper on ["Que Pasa?"](https://kb.osu.edu/handle/1811/87853), page 12.
 
 
-======
-<img src="/images/FB.png"> <img src="/images/FG.jpg">
+==========================================
+
+
+<img src="/images/FB.png"> 
+Proud Fulbright Allumni
 
