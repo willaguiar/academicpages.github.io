@@ -14,6 +14,6 @@ The focus of my research is the large-scale ocean circulation and its effect on 
 
 News
 ======
-- *Aug-2020* **Paper published in Quaternary Science Reviews** Check out my [new paper](https://doi.org/10.1016/j.quascirev.2020.106498) on how past ocean overturning changes affected the South American Mosoons during the 8.2 kyr event.
+- Aug-2020 - **Paper published in Quaternary Science Reviews** Check out my [new paper](https://doi.org/10.1016/j.quascirev.2020.106498) on how past ocean overturning changes affected the South American Mosoons during the 8.2 kyr event.
 
 
