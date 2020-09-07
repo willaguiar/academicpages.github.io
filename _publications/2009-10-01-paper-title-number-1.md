@@ -13,4 +13,4 @@ citation: 'Aguiar, Wilton. et al., (2020). &quot;Freshwater forcing control on e
 
 [Download paper here](http://willaguiar.github.io/files/Aguiar_2020.pdf)
 
-Recommended citation: Aguiar, Wilton. et al., (2020). "Freshwater forcing control on early-Holocene South American Monsoon." <i>Quaternary Science Reviews</i>. 1(1).
+Recommended citation: Aguiar, W., Prado, L.F., Wainer, I., Liu, Z., Montenegro, A., Meissner, K.J. and Mata, M.M., 2020. Freshwater forcing control on early-Holocene South American monsoon. Quaternary Science Reviews, 245, p.106498.
