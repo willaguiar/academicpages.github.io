@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "On deep convection events and Antarctic Bottom Water formation in ocean reanalysis products"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2017-11-07
+venue: 'Ocean Science'
+paperurl: 'http://willaguiar.github.io/files/Aguiar_2017.pdf'
+citation: 'Aguiar, W., Mata, M. M., and Kerr, R.: On deep convection events and Antarctic Bottom Water formation in ocean reanalysis products, Ocean Sci., 13, 851–872, https://doi.org/10.5194/os-13-851-2017, 2017.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://willaguiar.github.io/files/Aguiar_2017.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Aguiar, W., Mata, M. M., and Kerr, R.: On deep convection events and Antarctic Bottom Water formation in ocean reanalysis products, Ocean Sci., 13, 851–872, https://doi.org/10.5194/os-13-851-2017, 2017.
