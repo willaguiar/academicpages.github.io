@@ -22,6 +22,6 @@ News
 ==========================================
 
 
-<img src="/images/FB.png" alt="hi" class="inline" | width=100> 
+<img src="/images/FB.png" alt="hi" class="inline" width="40%"> 
 Proud Fulbright Allumni
 
