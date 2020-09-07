@@ -1,7 +1,7 @@
 ---
 title: "On deep convection events and Antarctic Bottom Water formation in ocean reanalysis products"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2017-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2017-11-07
 venue: 'Ocean Science'
