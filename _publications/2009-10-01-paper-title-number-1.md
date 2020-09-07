@@ -8,7 +8,8 @@ venue: 'Quaternary Science Reviews'
 paperurl: 'http://willaguiar.github.io/files/Aguiar_2020.pdf'
 citation: 'Aguiar, Wilton. et al., (2020). &quot;Freshwater forcing control on early-Holocene South American Monsoon.&quot; <i>Quaternary Science Reviews</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+**Abstract** Climate anomalies due to Lake Agassiz outbursts and Hudson Bay ice dome melting are commonly considered triggers of North American atmospheric cooling. However, in the Southern Hemisphere, these freshwater fluxes are mostly associated with increased precipitation and a possible intensification of the South American Monsoon System (SAMS). Here, we tested how the SAMS responded to early-Holocene meltwater events. Based on both proxy data and simulations, we find that sea surface temperatures (SSTs) and precipitation indicate a freshwater-driven strengthening of the SAMS due to a weakening of the South Atlantic subtropical dipole. Simulated SAMS strengthening accounts for up to 50% of the variance in early-Holocene precipitation in South America. In turn, changes in the South Atlantic Subtropical Dipole accounts for up to 31% of the variance in South Atlantic SSTs. Additionally, we propose that the stronger SAMS in the early Holocene might have been due to a freshwater-driven weakening of the southeasterly trade winds. Slower trade winds weaken the zonal and meridional surface water transport, concentrating warm waters in the northeastern South Atlantic.
+
 
 [Download paper here](http://willaguiar.github.io/files/Aguiar_2020.pdf)
 
