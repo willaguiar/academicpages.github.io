@@ -18,5 +18,5 @@ News
 - Fev-2020 - **Presentation at Ocean Science Meeting** - I'll be presenting my [new work](https://agu.confex.com/agu/osm20/meetingapp.cgi/Paper/645981) on the effects of the 8.2 kyr event in South America and the South Atlantic on Ocean Science meeting in San Diego- California. Come check it it the poster section!
 - 2018 - **Magazine Publication** - Do you want to know a little more about the issues South America is suffering regarding conserving its paleo and scientific history? Check out this magazine paper on ["Que Pasa?"](https://kb.osu.edu/handle/1811/87853), page 12.
 
-<img src="FB.png">
+<img src="/images/FB.png">
 
