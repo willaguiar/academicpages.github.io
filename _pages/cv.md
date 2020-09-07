@@ -27,7 +27,7 @@ Work experience
   * Evaluation of wind cycles and climatology for Los Alamos, NM
   * Supervisor: Prof. Adam Monahan
   
-For the full CV, please click here.
+For the full CV, please click [here](/data/CV_AguiarFilho.pdf).
 
 Publications
 ======
