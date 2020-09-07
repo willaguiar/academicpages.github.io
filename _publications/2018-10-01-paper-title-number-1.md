@@ -1,7 +1,7 @@
 ---
 title: "A climatology of the annual cycle of river discharges into the Brazilian continental shelves: from seasonal to interannual variability"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-1
+permalink: /publication/2018-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-03-02
 venue: 'Environmental Earth Sciences'
