@@ -22,7 +22,7 @@ News
 ==========================================
 
 
-<img src="/images/FB.png" alt="hi" class="inline" width="25%">     <img src="/images/FG.jpg" alt="hi" class="inline" width="15%"> 
+<img src="/images/FB.png" alt="hi" class="inline" width="25%">     <img src="/images/FG.jpg" alt="hi" class="inline" width="10%"> 
 
 
 
