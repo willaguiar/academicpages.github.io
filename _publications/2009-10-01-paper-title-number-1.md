@@ -1,7 +1,7 @@
 ---
 title: "Freshwater forcing control on early-Holocene South American Monsoon"
 collection: publications
-permalink: files/Aguiar_2020.pdf
+permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Quaternary Science Reviews'
