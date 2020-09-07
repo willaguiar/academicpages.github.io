@@ -14,6 +14,7 @@ The focus of my research is the large-scale ocean circulation and its effect on 
 
 News
 ======
-- Aug-2020 - **Paper published in Quaternary Science Reviews** Check out my [new paper](https://doi.org/10.1016/j.quascirev.2020.106498) on how past ocean overturning changes affected the South American Mosoons during the 8.2 kyr event.
-
+- Aug-2020 - **Paper published in Quaternary Science Reviews** - Check out my [new paper](https://doi.org/10.1016/j.quascirev.2020.106498) on how past ocean overturning changes affected the South American Mosoons during the 8.2 kyr event.
+- Fev-2020 - **Presentation at Ocean Science Meeting** - I'll be presenting my [new work](https://agu.confex.com/agu/osm20/meetingapp.cgi/Paper/645981) on the effects of the 8.2 kyr event in South America and the South Atlantic on Ocean Science meeting in San Diego- California. Come check it it the poster section!
+- Fev-2018 - **Fulbright Doctoral Dissertation Research Award** - 
 
