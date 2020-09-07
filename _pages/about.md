@@ -22,8 +22,8 @@ News
 ==========================================
 
 
-<img src="/images/FB.png" alt="hi" class="inline" width="25%"> <img src="/images/FG.jpg" alt="hi" class="inline" width="15%"> 
+<img src="/images/FB.png" alt="hi" class="inline" width="25%">   <img src="/images/FG.jpg" alt="hi" class="inline" width="15%"> 
 
 
-Proud Fulbright Allumni
+ Proud Fulbright Allumni  - Proug Graduate from FURG
 
