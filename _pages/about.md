@@ -9,7 +9,9 @@ redirect_from:
 ---
 I am a physical oceanographer and currently a Ph.D. candidate in oceanography in the Oceanographic Institute of the Federal University of the Rio Grande (FURG-Brazil), advised by Prof. [Mauricio M. Mata](https://www.researchgate.net/profile/Mauricio_Mata).
 
-The focus of my research is the large-scale ocean circulation and its effect on climate, with particular focus on  the following topics: polar climate, past and future large-scale circulation, and interactions between sea ice, deep circulation, and atmosphere.
+The focus of my research is the large-scale ocean circulation and its effect on climate, with particular focus on  the following topics: polar climate, past and future large-scale circulation, and interactions between sea ice, deep circulation, and atmosphere. 
+
+On a side note... I am passionate about photographing landscapes and macros (often doing that during fieldwork). So check my [500px page](https://500px.com/p/WiltonAguiar) if youd like to see some photos of Antarctica and other cool places!
 
 
 News
