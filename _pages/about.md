@@ -11,7 +11,7 @@ I am a physical oceanographer and currently a Ph.D. candidate in oceanography in
 
 The focus of my research is the large-scale ocean circulation and its effect on climate, with particular focus on  the following topics: polar climate, past and future large-scale circulation, and interactions between sea ice, deep circulation, and atmosphere. 
 
-On a side note... I am passionate about photographing landscapes and macros (often doing that during fieldwork). So check my [500px page](https://500px.com/p/WiltonAguiar) if youd like to see some photos of Antarctica and other cool places!
+On a side note... I am passionate about photographing landscapes and macros (often doing that during fieldwork). So check my [500px page](https://500px.com/p/WiltonAguiar) if you would like to see some photos of Antarctica and other cool places!
 
 
 News
